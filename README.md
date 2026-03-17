@@ -5,8 +5,11 @@ This project performs Exploratory Data Analysis (EDA) on Netflix data to underst
 The analysis focuses on identifying common movie durations and examining short action movies from that decade.
 
 Objectives
+
 -Analyze Netflix movies released between 1990 and 1999
+
 -Find the most frequent movie duration
+
 -Identify and count short action movies (less than 90 minutes)
 
 Tools Used
