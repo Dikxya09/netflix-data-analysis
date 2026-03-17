@@ -1,5 +1,6 @@
 Netflix Data Analysis (1990s)
 project overview
+
 This project performs Exploratory Data Analysis (EDA) on Netflix data to understand trends in movies released during the 1990s.
 The analysis focuses on identifying common movie durations and examining short action movies from that decade.
 
